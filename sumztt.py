@@ -1,0 +1,8 @@
+a = input("please enter number1:")
+a = int(a)
+b = input("please enter number2:")
+b = int(b)
+print(a,'+ ',b,'=',a+b)
+print(a,'- ',b,'=',a-b)
+print(a,'* ',b,'=',a*b)
+print(a,'% ',b,'=',a%b)
